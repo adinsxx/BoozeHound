@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "a4j0PFEOHDdexKj2MfYQzl7Jzp74EHgvVfHxmShYB69vI52ZF1sLnA/xf77mpwhFyL0/akwq2nkZq4uawmMGPg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Connor\\RiderProjects\\BoozeHound\\BoozeHound\\BoozeHound.iOS\\BoozeHound.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Connor\\.nuget\\packages\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}

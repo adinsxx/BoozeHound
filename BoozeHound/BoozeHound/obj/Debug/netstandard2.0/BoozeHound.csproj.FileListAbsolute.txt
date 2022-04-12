@@ -1,0 +1,13 @@
+C:\Users\Connor\RiderProjects\BoozeHound\BoozeHound\BoozeHound\bin\Debug\netstandard2.0\BoozeHound.deps.json
+C:\Users\Connor\RiderProjects\BoozeHound\BoozeHound\BoozeHound\bin\Debug\netstandard2.0\BoozeHound.dll
+C:\Users\Connor\RiderProjects\BoozeHound\BoozeHound\BoozeHound\bin\Debug\netstandard2.0\BoozeHound.pdb
+C:\Users\Connor\RiderProjects\BoozeHound\BoozeHound\BoozeHound\obj\Debug\netstandard2.0\BoozeHound.csproj.AssemblyReference.cache
+C:\Users\Connor\RiderProjects\BoozeHound\BoozeHound\BoozeHound\obj\Debug\netstandard2.0\BoozeHound.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Connor\RiderProjects\BoozeHound\BoozeHound\BoozeHound\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Connor\RiderProjects\BoozeHound\BoozeHound\BoozeHound\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Connor\RiderProjects\BoozeHound\BoozeHound\BoozeHound\obj\Debug\netstandard2.0\BoozeHound.AssemblyInfoInputs.cache
+C:\Users\Connor\RiderProjects\BoozeHound\BoozeHound\BoozeHound\obj\Debug\netstandard2.0\BoozeHound.AssemblyInfo.cs
+C:\Users\Connor\RiderProjects\BoozeHound\BoozeHound\BoozeHound\obj\Debug\netstandard2.0\BoozeHound.csproj.CoreCompileInputs.cache
+C:\Users\Connor\RiderProjects\BoozeHound\BoozeHound\BoozeHound\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Connor\RiderProjects\BoozeHound\BoozeHound\BoozeHound\obj\Debug\netstandard2.0\BoozeHound.dll
+C:\Users\Connor\RiderProjects\BoozeHound\BoozeHound\BoozeHound\obj\Debug\netstandard2.0\BoozeHound.pdb
